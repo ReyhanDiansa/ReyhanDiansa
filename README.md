@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Inkra+Andini!;I'm+a+UI/UX+Enthusiast...;I'm+also+Web+Developer;)](https://git.io/typing-svg)
+
 
 <h3>About Me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;</h3>
 
