@@ -29,7 +29,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyhanDiansa&layout=compact&theme=tokyonight)](https://github.com/ReyhanDiansa)
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ijlalWindhi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&sideNums=BF91F3&sideLabels=BF91F3)](https://git.io/streak-stats) -->
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
